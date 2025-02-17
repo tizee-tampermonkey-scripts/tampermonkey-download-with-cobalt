@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         Download Media with Cobalt API
 // @namespace    https://github.com/tizee/tempermonkey-download-with-cobalt
-// @version      1.0
+// @downloadURL  https://raw.githubusercontent.com/tizee/tempermonkey-download-with-cobalt/main/user.js
+// @updateURL    https://raw.githubusercontent.com/tizee/tempermonkey-download-with-cobalt/main/user.js
+// @version      1.1
 // @description  Adds a context menu item to download media from supported video sites using a direct URL.
 // @author       tizee
 // @match        *://*.bilibili.com/video/*
