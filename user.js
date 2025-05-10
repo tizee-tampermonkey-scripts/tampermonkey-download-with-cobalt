@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Download Media with Cobalt API
 // @namespace    https://github.com/tizee/tempermonkey-download-with-cobalt
-// @downloadURL  https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-download-with-cobalt.tizee-tampermonkey-scripts/refs/heads/main/user.js
-// @updateURL    https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-download-with-cobalt.tizee-tampermonkey-scripts/refs/heads/main/user.js
+// @downloadURL  https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-download-with-cobalt/refs/heads/main/user.js
+// @updateURL    https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-download-with-cobalt/refs/heads/main/user.js
 // @version      1.1
 // @description  Adds a context menu item to download media from supported video sites using a direct URL.
 // @author       tizee
